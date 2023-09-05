@@ -26,5 +26,5 @@ Hi there, I'm currently a final-year student at Hanoi University of Mining and G
 - Enthical hacking
 # Social activities
 In 2022, I was selected to be a GDSC Lead, I take the responsibility of inspiring students, helping them connect, learning Google technologies, and building solution to solve the problem of local.
-! [GDSC](http://localhost:3000/static/media/Hanoi-University-of-Mining-and-Geology-1.f2b0187d2b8ac3aea3ab.png)
+![GDSC](https://nguyhonglong.github.io/static/media/Hanoi-University-of-Mining-and-Geology-1.f2b0187d2b8ac3aea3ab.png)
 >This is the most precious experience in my college life.
