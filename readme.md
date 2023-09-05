@@ -3,7 +3,7 @@ Hi there, I'm currently a final-year student at Hanoi University of Mining and G
 
 # Infomation
 - **Founder** at ``FutureAI Innovator Vietnam (FAIV)``
-- **Community Lead** at ``GDSC VN``
+- **Community Lead** at ``GDSC Vietnam``
 - Former **President/Leader** at ``Google Developer Student Clubs - Hanoi University of Mining and Geology``
 - **Advidser** at ``Infomation Technology Club HUMG``
 - **Computer science major student** at ``Hanoi University of Mining and Geology``
@@ -19,7 +19,7 @@ Hi there, I'm currently a final-year student at Hanoi University of Mining and G
 # Skills
 - Leadership
 - English: Communicate, read and write documentation, and support email.
-- 1 year of experience in Artificial Intelligence
+- 1 year of experience in ``Artificial Intelligence``
 - MERN stack
 - Software and game development.
 - IOT
