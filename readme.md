@@ -9,18 +9,18 @@ Hi there, I'm currently a final-year student at Hanoi University of Mining and G
 - **Advidser** at ``Infomation Technology Club HUMG``
 - **Computer science major student** at ``Hanoi University of Mining and Geology``
 # Prizes and Certificates
-- Completed the 'Lead a Google Developer Student Club (GDSC)' pathway
-- Second Prize of Open-source software and maps(OSM Hackfest Vietnam 2023)
-- Certificate of ASEAN Students Contest on Information Security
-- Second Prize Winner of the Junior Science Research Committee HUMG
-- Second Prize Winner of SV.STARTUP HUMG 2022
-- Second Prize Winner of Olympic English HUMG
-- Top 30 Technology Solutions in the Busitech Bootcamp Competition
-- Scholarship of my university
+- Completed the ``'Lead a Google Developer Student Club (GDSC)'`` pathway
+- Second Prize of ``Open-source software and maps(OSM Hackfest Vietnam 2023)``
+- Certificate of ``ASEAN Students Contest on Information Security``
+- Second Prize Winner of the ``Junior Science Research Committee HUMG``
+- Second Prize Winner of ``SV.STARTUP HUMG 2022``
+- Second Prize Winner of ``Olympic English HUMG``
+- Top 30 Technology Solutions in the ``Busitech Bootcamp Competition``
+- ``Scholarship`` of my university
 # Skills
 - Leadership
 - English: Communicate, read and write documentation, and support email.
-- 1 year of experience in ``Artificial Intelligence``
+- ``1 year`` of experience in ``Artificial Intelligence``
 - MERN stack
 - Software and game development.
 - IOT
