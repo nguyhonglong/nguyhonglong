@@ -3,7 +3,6 @@ Hi there, I'm currently a final-year student at Hanoi University of Mining and G
 ![Bard](https://github.com/nguyhonglong/nguyhonglong/blob/main/img/bard.png?raw=true)
 
 # Infomation
-- **Founder** at ``FutureAI Innovator Vietnam (FAIV)``
 - **Community Lead** at ``GDSC Vietnam``
 - Former **President/Leader** at ``Google Developer Student Clubs - Hanoi University of Mining and Geology``
 - **Advidser** at ``Infomation Technology Club HUMG``
