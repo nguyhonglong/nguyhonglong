@@ -1,231 +1,145 @@
 <div align="center">
 
-```text
-██╗      ██████╗ ███╗   ██╗ ██████╗
-██║     ██╔═══██╗████╗  ██║██╔════╝
-██║     ██║   ██║██╔██╗ ██║██║  ███╗
-██║     ██║   ██║██║╚██╗██║██║   ██║
-███████╗╚██████╔╝██║ ╚████║╚██████╔╝
-╚══════╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝
+# Hi, I'm Long Nguyen 👋
 
-AI Systems Engineer • Research & Development
+### AI Engineer · Research & Development
+
+I build intelligent systems from research and prototypes  
+to backend infrastructure and production deployment.
+
+```text
+AI is the core.
+Systems make it useful.
+Security keeps it reliable.
 ```
 
 </div>
 
 ---
 
-```bash
-root@github:~$ whoami
+## About Me
 
-Name        : Long Hong Nguyen
-Username    : nguyhonglong
-Location    : Hanoi, Vietnam
+I'm an **AI Engineer with an end-to-end R&D mindset**.
 
-Primary Role
-------------
-AI Systems Engineer
-
-Current Focus
--------------
-• Artificial Intelligence
-• Research & Development
-• Quantitative Trading
-• Backend Engineering
-• Distributed Systems
-• Security Engineering
-```
-
----
-
-# About
-
-I enjoy building intelligent systems that solve real-world problems.
-
-My work spans the full software lifecycle—from research and prototyping to backend architecture, cloud infrastructure, deployment, and production operations.
-
-Current interests include Artificial Intelligence, Large Language Models, Quantitative Trading, Distributed Systems, Security Engineering, and high-performance backend development.
-
----
-
-# ~/expertise
+My primary focus is artificial intelligence, especially systems that can move
+beyond experiments and operate reliably in real-world products.
 
 ```text
-Artificial Intelligence
-├── Large Language Models (LLMs)
-├── AI Agents
-├── Retrieval-Augmented Generation (RAG)
-├── Computer Vision
-├── Machine Learning
-└── Prompt Engineering
+Research → Prototype → Architecture → Development → Deployment
+```
 
-Backend Engineering
-├── Go
-├── FastAPI
-├── Spring Boot
-├── REST APIs
-├── Microservices
-└── High Performance Systems
+I also work across backend engineering, cloud infrastructure, automation,
+quantitative research and cybersecurity fundamentals.
 
-Cloud & Infrastructure
-├── AWS
-├── Cloudflare
-├── Docker
-├── Linux
-├── CI/CD
-└── System Architecture
+---
 
+## Tech Stack
+
+<div align="center">
+
+### AI & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+### Backend & Infrastructure
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+</div>
+
+---
+
+## Areas of Interest
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Artificial Intelligence
+
+- Large Language Models
+- AI Agents and MCP
+- Retrieval-Augmented Generation
+- Computer Vision
+- Time-Series Analysis
+- AI evaluation and deployment
+
+</td>
+<td width="50%" valign="top">
+
+### Systems Engineering
+
+- Backend architecture
+- Distributed systems
+- Event-driven systems
+- Cloud infrastructure
+- CI/CD and automation
+- Production observability
+
+</td>
+</tr>
+</table>
+
+---
+
+## Security Foundations
+
+I study cybersecurity to understand how systems fail and how to build them
+more securely.
+
+```text
 Security
-├── API Security
-├── Infrastructure Security
-├── Cloud Security
-└── Secure Software Design
-
-Finance & Trading
-├── MT5 Automation
-├── Quantitative Research
-├── Trading Infrastructure
-└── Financial Data Engineering
+├── Web and API Security
+├── Linux System Hardening
+├── Network Analysis
+├── Reverse Engineering
+└── Binary Exploitation Fundamentals
+    ├── Stack and Heap
+    ├── Buffer Overflow
+    ├── x86 / x86-64 Assembly
+    └── Exploit Mitigations
 ```
 
----
-
-# ~/stack
-
-```text
-Operating System
-├── Linux
-└── Windows Server
-
-Languages
-├── Go
-├── Python
-├── TypeScript
-└── Java
-
-Backend
-├── Gin
-├── FastAPI
-├── Spring Boot
-└── gRPC
-
-Frontend
-├── Next.js
-├── React
-└── TailwindCSS
-
-Database
-├── PostgreSQL
-├── MySQL
-└── Redis
-
-AI
-├── OpenAI
-├── PyTorch
-├── OpenCV
-├── YOLO
-└── LangGraph
-
-Cloud
-├── AWS
-├── Cloudflare
-└── Google Cloud
-
-DevOps
-├── Docker
-├── GitLab CI/CD
-├── GitHub Actions
-└── Nginx
-```
+`Ghidra` · `GDB` · `Wireshark` · `Burp Suite` · `Nmap`
 
 ---
 
-# Current Research
-
-```text
-✓ AI Agents
-✓ Multi-Agent Systems
-✓ Large Language Models
-✓ Quantitative Trading
-✓ Distributed Systems
-✓ AI Infrastructure
-✓ Retrieval-Augmented Generation
-✓ Model Context Protocol (MCP)
-✓ Cloud Native Applications
-✓ Secure AI Systems
-```
-
----
-
-# GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nguyhonglong&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyhonglong&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=nguyhonglong&theme=github-dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyhonglong&theme=github-dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nguyhonglong&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-# ~/projects
-
-```text
-AI Applications
-Backend Platforms
-Research Prototypes
-Quantitative Trading Systems
-Cloud Infrastructure
-Automation Tools
-Developer Utilities
-Open Source Projects
-```
-
----
-
-# ~/contact
+## Currently Exploring
 
 ```bash
-Email      : nguyhonglong2002@gmail.com
-LinkedIn   : linkedin.com/in/nguyhonglong
-Website    : https://nguyhonglong.id.vn
-GitHub     : https://github.com/nguyhonglong
+long@github:~$ cat current-focus.txt
+
+Production-ready AI systems
+AI agents and Model Context Protocol
+High-performance Go backend services
+Quantitative research infrastructure
+Application and infrastructure security
 ```
 
 ---
 
-# Philosophy
+## Engineering Principles
 
 ```text
-Research.
-Build.
-Measure.
-Improve.
-Repeat.
+Understand before abstracting.
+Measure before optimizing.
+Build before overengineering.
+Secure before scaling.
 ```
 
-```bash
-root@github:~$ uptime
+<div align="center">
 
-Learning since 2002...
-Still running.
-```
+---
+
+**Research. Build. Measure. Improve.**
+
+</div>
