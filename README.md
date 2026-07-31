@@ -75,12 +75,12 @@ I'm passionate about building scalable AI applications, backend systems, and qua
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyhonglong2002&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyhonglong2002&layout=compact&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyhonglong&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyhonglong&layout=compact&theme=tokyonight&hide_border=true" height="170">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nguyhonglong2002&theme=tokyonight&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=nguyhonglong&theme=tokyonight&hide_border=true">
 </p>
 
 ---
