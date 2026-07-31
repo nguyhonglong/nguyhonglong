@@ -1,96 +1,231 @@
-# Hi there 👋 I'm Long Hong Nguy
+<div align="center">
 
-AI Engineer | Backend Developer | Building AI & Quant Trading Systems
+```text
+██╗      ██████╗ ███╗   ██╗ ██████╗
+██║     ██╔═══██╗████╗  ██║██╔════╝
+██║     ██║   ██║██╔██╗ ██║██║  ███╗
+██║     ██║   ██║██║╚██╗██║██║   ██║
+███████╗╚██████╔╝██║ ╚████║╚██████╔╝
+╚══════╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝
 
-I'm passionate about building scalable AI applications, backend systems, and quantitative trading platforms. I enjoy solving real-world problems with software and continuously exploring new technologies.
+AI Systems Engineer • Research & Development
+```
 
----
-
-## 🚀 About Me
-
-- 💻 AI Engineer with experience in Computer Vision, LLMs, and Backend Development
-- ⚙️ Primarily working with **Go**, **Python**, **TypeScript**, and **Java**
-- ☁️ Interested in Cloud, DevOps, and scalable distributed systems
-- 📈 Building quantitative trading and AI-powered financial systems
-- 🤖 Exploring AI Agents, RAG, MCP, and workflow automation
-- 🌱 Always learning new technologies
+</div>
 
 ---
 
-## 🛠 Tech Stack
+```bash
+root@github:~$ whoami
 
-### Languages
+Name        : Long Hong Nguyen
+Username    : nguyhonglong
+Location    : Hanoi, Vietnam
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge)
+Primary Role
+------------
+AI Systems Engineer
 
-### Backend
-
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
-
-### Frontend
-
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-### AI / Machine Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
-![YOLO](https://img.shields.io/badge/YOLO-black?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-
-### DevOps & Cloud
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare)
+Current Focus
+-------------
+• Artificial Intelligence
+• Research & Development
+• Quantitative Trading
+• Backend Engineering
+• Distributed Systems
+• Security Engineering
+```
 
 ---
 
-## 📌 Current Interests
+# About
 
-- Large Language Models (LLMs)
-- AI Agents
-- Retrieval-Augmented Generation (RAG)
-- Quantitative Trading
-- High-performance Backend Systems
-- Distributed Systems
-- MLOps
-- Cloud Infrastructure
+I enjoy building intelligent systems that solve real-world problems.
+
+My work spans the full software lifecycle—from research and prototyping to backend architecture, cloud infrastructure, deployment, and production operations.
+
+Current interests include Artificial Intelligence, Large Language Models, Quantitative Trading, Distributed Systems, Security Engineering, and high-performance backend development.
 
 ---
 
-## 📈 GitHub Stats
+# ~/expertise
+
+```text
+Artificial Intelligence
+├── Large Language Models (LLMs)
+├── AI Agents
+├── Retrieval-Augmented Generation (RAG)
+├── Computer Vision
+├── Machine Learning
+└── Prompt Engineering
+
+Backend Engineering
+├── Go
+├── FastAPI
+├── Spring Boot
+├── REST APIs
+├── Microservices
+└── High Performance Systems
+
+Cloud & Infrastructure
+├── AWS
+├── Cloudflare
+├── Docker
+├── Linux
+├── CI/CD
+└── System Architecture
+
+Security
+├── API Security
+├── Infrastructure Security
+├── Cloud Security
+└── Secure Software Design
+
+Finance & Trading
+├── MT5 Automation
+├── Quantitative Research
+├── Trading Infrastructure
+└── Financial Data Engineering
+```
+
+---
+
+# ~/stack
+
+```text
+Operating System
+├── Linux
+└── Windows Server
+
+Languages
+├── Go
+├── Python
+├── TypeScript
+└── Java
+
+Backend
+├── Gin
+├── FastAPI
+├── Spring Boot
+└── gRPC
+
+Frontend
+├── Next.js
+├── React
+└── TailwindCSS
+
+Database
+├── PostgreSQL
+├── MySQL
+└── Redis
+
+AI
+├── OpenAI
+├── PyTorch
+├── OpenCV
+├── YOLO
+└── LangGraph
+
+Cloud
+├── AWS
+├── Cloudflare
+└── Google Cloud
+
+DevOps
+├── Docker
+├── GitLab CI/CD
+├── GitHub Actions
+└── Nginx
+```
+
+---
+
+# Current Research
+
+```text
+✓ AI Agents
+✓ Multi-Agent Systems
+✓ Large Language Models
+✓ Quantitative Trading
+✓ Distributed Systems
+✓ AI Infrastructure
+✓ Retrieval-Augmented Generation
+✓ Model Context Protocol (MCP)
+✓ Cloud Native Applications
+✓ Secure AI Systems
+```
+
+---
+
+# GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyhonglong&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyhonglong&layout=compact&theme=tokyonight&hide_border=true" height="170">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nguyhonglong&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyhonglong&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nguyhonglong&theme=tokyonight&hide_border=true">
+
+<img src="https://streak-stats.demolab.com?user=nguyhonglong&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyhonglong&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nguyhonglong&theme=algolia&no-frame=true&row=2&column=4"/>
+
 </p>
 
 ---
 
-## 📫 Contact
+# ~/projects
 
-- 📧 Email: nguyhonglong2002@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/nguyhonglong
-- 🌐 Website: https://nguyhonglong.id.vn
+```text
+AI Applications
+Backend Platforms
+Research Prototypes
+Quantitative Trading Systems
+Cloud Infrastructure
+Automation Tools
+Developer Utilities
+Open Source Projects
+```
 
 ---
 
-> *"Build things that scale. Learn relentlessly. Stay curious."*
+# ~/contact
+
+```bash
+Email      : nguyhonglong2002@gmail.com
+LinkedIn   : linkedin.com/in/nguyhonglong
+Website    : https://nguyhonglong.id.vn
+GitHub     : https://github.com/nguyhonglong
+```
+
+---
+
+# Philosophy
+
+```text
+Research.
+Build.
+Measure.
+Improve.
+Repeat.
+```
+
+```bash
+root@github:~$ uptime
+
+Learning since 2002...
+Still running.
+```
