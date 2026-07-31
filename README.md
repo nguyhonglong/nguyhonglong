@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Long Hong Nguyen
+# Hi there 👋 I'm Long Hong Nguy
 
 AI Engineer | Backend Developer | Building AI & Quant Trading Systems
 
