@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Long Nguyen 👋
+# Hi, I'm Long Nguy 👋
 
 ### AI Engineer · Research & Development
 
